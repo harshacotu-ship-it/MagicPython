@@ -90,7 +90,7 @@ Admittedly, all of these might be less frequently used, but when they are, you
 can rely on them being highlighted normally in all their glorious details.
 
 ```python
-# no reason why this should cause the highlighter to break
+#no reason why this should cause the highlighter to break
 #
 def some_func(a:
                  # annotation starts here
